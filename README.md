@@ -1,3 +1,2 @@
-# Privat repo for home_works
+# Repo for home_works, asynchronous_code branch
 
-Availible only for Nikolay and Andrew 
