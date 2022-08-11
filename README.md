@@ -1,3 +1,2 @@
-# Privat repo for home_works
-
-Availible only for Nikolay and Andrew 
+# Repo for home_works, DOM-2 branch
+ 
