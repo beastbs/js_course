@@ -2,10 +2,8 @@
 /node_modules
 .jshintrc
 
-# testing
-/coverage
 
-# production
+/coverage
 /build
 
 # misc
