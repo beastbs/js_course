@@ -1,3 +1,2 @@
-# Privat repo for home_works
+# DOM-2 project by webpack
 
-Availible only for Nikolay and Andrew 
